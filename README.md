@@ -13,3 +13,6 @@ bikeshare_2.py
 
 Credits:
 Feel free to add your comments
+
+About Me:
+I'm Jemma and I'm learning data analysis in Udacity
