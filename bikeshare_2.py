@@ -110,7 +110,7 @@ def load_data(city, month, day):
         day_df = df[(df['Day']==day.title())]
         return day_df
 
-    #no filter
+    #do not use filter
 
     else:
         return df
